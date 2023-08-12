@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img title="HackPe94"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfwZZp-CXrMsxOnT3Syhe82pQw6mRRx71dg&usqp=CAU" width="100" heigth="60"></a>
+  <a><img title="HackPe94"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfwZZp-CXrMsxOnT3Syhe82pQw6mRRx71dg&usqp=CAU" width="100" heigth="100"></a>
 <p align="center">
 <a><img title="HackPe94"
 </p>
@@ -7,7 +7,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37HxXbwOnt7XG02T_uO9BTqv-ptbAvSoezA&usqp=CAU" width="350" height="250"/>
 </p>
 <p align="center">
-<a href="#"><img title="HackPe@BugHunters94" src="https://img.shields.io/badge/-%20ANONYMOUS-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
+<a href="#"><img title="HackPe@BugHunters94"
 </p>
 <p align="center">
   <a href="https://telegram.org/dl"><img title="Telegram" src="https://simpleicons.org/icons/telegram.svg" width="50" height="50"></a>
