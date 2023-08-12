@@ -2,7 +2,7 @@
   <a><img title="HackPe94" 
 </p>
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37HxXbwOnt7XG02T_uO9BTqv-ptbAvSoezA&usqp=CAU" width="350" height="350"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37HxXbwOnt7XG02T_uO9BTqv-ptbAvSoezA&usqp=CAU" width="350" height="250"/>
 </p>
 <p align="center">
 <a href="#"><img title="HackPe@BugHunters94" src="https://img.shields.io/badge/-%20ANONYMOUS-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
