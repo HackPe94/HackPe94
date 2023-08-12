@@ -13,7 +13,7 @@
   <a href="https://telegram.org/dl"><img title="Telegram" src="https://simpleicons.org/icons/telegram.svg" width="50" height="50"></a>
 </p>
 <p align="center">
-<a href="https://github.com/hakxcore/followers">
+
 </p>
   
 ## Clone this project
@@ -24,14 +24,14 @@
 </p>
   
   ## Installation
-  
+</p>
   ```bash
    cd Anonymous
    ./install
   ``` 
 
   ## After Sucessful Installation
-   
+  </p>
    ```bash
     anonymous <your_name>
    ```
