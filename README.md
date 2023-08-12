@@ -29,9 +29,11 @@
    cd Anonymous
    ./install
   ``` 
+</p>
 
   ## After Sucessful Installation
   </p>
+  
    ```bash
     anonymous <your_name>
    ```
