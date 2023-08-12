@@ -10,7 +10,7 @@
 <a href="#"><img title="Anonymous" src="https://img.shields.io/badge/-%20ANONYMOUS-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
 </p>
 <p align="center">
-  <a href="https://telegram.org/dl"><img title="Telegram" src="https://simpleicons.org/icons/telegram.svg" width="50" height="50"></a>
+  <a href="https://t.me/HackPe94Hunters"><img title="Telegram" src="https://simpleicons.org/icons/telegram.svg" width="50" height="50"></a>
 </p>
 <p align="center">
 
